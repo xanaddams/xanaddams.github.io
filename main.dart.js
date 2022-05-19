@@ -59571,7 +59571,7 @@ return A.a2($async$rh,r)}}
 A.VQ.prototype={}
 A.Do.prototype={
 O(a,b){var s=A.adg(null,B.qQ)
-return new A.uo(A.aC(["/",new A.UI(),"/register",new A.UJ()],t.N,t.Ab),"High Point Fleet Manager",s,null)}}
+return new A.uo(A.aC(["/",new A.UI(),"/register",new A.UJ()],t.N,t.Ab),"High Point Fleet Manage",s,null)}}
 A.UI.prototype={
 $1(a){return B.CI},
 $S:358}
